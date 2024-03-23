@@ -114,18 +114,24 @@ class TransactionService {
     public function getMyTransactionService($id) {
 
         $wallet = Wallet::where('user_id', $id)->get();
-        $transactions = Transaction::where('wallet_id', $wallet[0]->id)->get();
+        if ($wallet->count() > 0){
+                $transactions = Transaction::where('wallet_id', $wallet[0]->id)->get();
 
-        if ($transactions->count() == 0){
-            return response()->json([
-              "warning" => "0.00",
-              "message" => "Total Transactions: 0.00"
-            ], 202);
+            if ($transactions->count() == 0){
+                return response()->json([
+                  "warning" => "0.00",
+                  "message" => "Total Transactions: 0.00"
+                ], 202);
+            } else {
+                return response()->json([
+                  "warning" => "Transactions Listed!",
+                  "transactions" => $transactions
+                ], 202);
+            }
         } else {
             return response()->json([
-              "warning" => "Transactions Listed!",
-              "transactions" => $transactions
-            ], 202);
+                  "message" => "There is no customer for that ID",
+                ], 400);
         }
 
     }

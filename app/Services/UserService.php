@@ -12,7 +12,7 @@ class UserService {
         $userList = User::get();
 
         return response()->json([
-            "message" => "User list created!",
+            "message" => "User list",
             "users" => $userList,
         ], 200);
 
