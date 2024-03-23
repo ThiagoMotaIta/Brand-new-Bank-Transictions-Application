@@ -15,10 +15,10 @@ Welcome to **Readme of simplified banking Project**!
 ## About the Stacks 📜
 
 - For this project, i decided to use Laravel v9.52, and PHP v8.0.11 for **BACK-END**;
-- For **FRONT-END**, Bootstrap v5.3.2 and Javascript;
+- For **FRONT-END**, Bootstrap v5.3.2, Javascript and Tailwind CSS;
 - For **DATABASE**, MySQL (MariaDB);
 
-## Technical info 🦄
+## Technical info 📜
 For this project, i used:
 
 - Sample of usage of Strategy Pattern;
@@ -27,7 +27,11 @@ For this project, i used:
 - Clean Code;
 - DRY;
 
-## Some prints 📜
+## Extra info ☕️
+- You'll need to install **[LARAVEL BREEZE](https://github.com/laravel/breeze)**, an authentication feature with Tailwind CSS.
+- After migrate, you'll need to run Seeder to populate tables with some users (customer and Admin)
+
+## Some prints ☕️
 
 - Example of API end-points
 <img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api%20samples.png" width="100%" />
