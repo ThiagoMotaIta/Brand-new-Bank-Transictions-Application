@@ -19,17 +19,17 @@ Welcome to **Readme of simplified banking Project**!
 - For **DATABASE**, MySQL (MariaDB);
 
 ## Technical info 📜
-For this project, i used:
+In this project, you will see:
 
-- Sample of usage of Strategy Pattern;
-- Services to help controllers;
-- Sample of Dependency Injection;
+- Samples of usage of Strategy Pattern;
+- Services classes to handle controllers;
+- Samples of Dependency Injection;
 - Clean Code;
 - DRY;
 
 ## Extra info ☕️
-- You'll need to install **[LARAVEL BREEZE](https://github.com/laravel/breeze)**, an authentication feature with Tailwind CSS.
-- After migrate, you'll need to run Seeder to populate tables with some users (customer and Admin)
+- You'll need to install **[LARAVEL BREEZE](https://github.com/laravel/breeze)**, an authentication feature with Tailwind CSS, to login or register as user account.
+- After running migrate command, you'll need to run Seeder command to populate tables with some users (customer and Admin)
 
 ## Some prints ☕️
 
