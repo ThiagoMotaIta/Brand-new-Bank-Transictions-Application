@@ -30,7 +30,7 @@ For this project, i used:
 ## Some prints 📜
 
 - Example of API end-points
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png =x250)
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png" width="200" height="200" />
 
 - DB Tables
 ![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png =x250)
