@@ -49,5 +49,4 @@ For this project, i used:
 ## Live Demo ❤️
 
 You can watch a Live Demo of this application by accessing YouTube link: **[PLAY LIVE DEMO VIDEO](https://www.youtube.com/watch?v=p3GKJ2BJ4dQ)**.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p3GKJ2BJ4dQ?si=izqDcXpOJVnEOXdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
