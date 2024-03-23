@@ -30,7 +30,7 @@ For this project, i used:
 ## Some prints 📜
 
 - Example of API end-points
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png" width="100%" />
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api%20samples.png" width="100%" />
 
 - PHPUnit test running
 <img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png" width="100%" />
