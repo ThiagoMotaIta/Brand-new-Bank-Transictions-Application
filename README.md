@@ -36,10 +36,10 @@ For this project, i used:
 <img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png" width="100%" />
 
 - Tables Relationship
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png =x250)
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png" width="100%" />
 
 - PHPUnit test running
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png =x250)
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png" width="100%" />
 
 
 ## Testing 📜
