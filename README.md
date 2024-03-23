@@ -28,7 +28,7 @@ In this project, you will see:
 - DRY;
 
 ## Extra info ☕️
-- You'll need to install **[LARAVEL BREEZE](https://github.com/laravel/breeze)**, an authentication feature with Tailwind CSS, to login or register as user account.
+- You'll need to install **[LARAVEL BREEZE](https://github.com/laravel/breeze)**, an authentication feature with Tailwind CSS, to login or register an user account.
 - After running migrate command, you'll need to run Seeder command to populate tables with some users (customer and Admin)
 
 ## Some prints ☕️
