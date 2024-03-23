@@ -30,16 +30,16 @@ For this project, i used:
 ## Some prints 📜
 
 - Example of API end-points
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png)
+![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png){width=100%}
 
 - DB Tables
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png)
+![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png){width=100%}
 
 - Tables Relationship
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png)
+![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png){width=100%}
 
 - PHPUnit test running
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png)
+![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png){width=100%}
 
 
 ## Testing 📜
