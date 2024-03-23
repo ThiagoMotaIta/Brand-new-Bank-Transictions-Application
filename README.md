@@ -1,6 +1,6 @@
-# Simplified banking system - Thiago Mota 📜
+# Simplified banking project - Thiago Mota 📜
 
-Welcome to **Readme of simplified banking Project**!
+Welcome to **Readme of simplified banking project**!
 
 ## About the Project ☕️
 
