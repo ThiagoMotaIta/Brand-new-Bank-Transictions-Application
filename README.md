@@ -29,16 +29,16 @@ For this project, i used:
 
 ## Some prints 📜
 
-Example of API end-points
+- Example of API end-points
 ![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png)
 
-DB Tables
+- DB Tables
 ![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png)
 
-Tables Relationship
+- Tables Relationship
 ![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png)
 
-PHPUnit test running
+- PHPUnit test running
 ![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png)
 
 
