@@ -32,14 +32,14 @@ For this project, i used:
 - Example of API end-points
 <img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png" width="100%" />
 
-- DB Tables
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png" width="100%" />
+- PHPUnit test running
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png" width="100%" />
 
 - Tables Relationship
 <img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png" width="100%" />
 
-- PHPUnit test running
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png" width="100%" />
+- DB Tables
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png" width="100%" />
 
 
 ## Testing 📜
