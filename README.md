@@ -30,10 +30,10 @@ For this project, i used:
 ## Some prints 📜
 
 - Example of API end-points
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png" width="200" height="200" />
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api.png" width="100%" />
 
 - DB Tables
-![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png =x250)
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png" width="100%" />
 
 - Tables Relationship
 ![alt text](https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png =x250)
