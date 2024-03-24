@@ -68,7 +68,7 @@
                   </div>
                   <div class="mb-3">
                     <label class="form-label"><i class="fa fa-money-bill"></i> Amount USD</label>
-                    <input type="text" id="amount-deposit" name="amount-deposit" class="border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 rounded-md shadow-sm mt-1 block w-full">
+                    <input type="number" id="amount-deposit" name="amount-deposit" class="border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 rounded-md shadow-sm mt-1 block w-full">
                   </div>
                   <div class="mb-3">
                     <label class="form-label"><i class="fa fa-star"></i> Description</label>
@@ -110,7 +110,7 @@
                   </div>
                   <div class="mb-3">
                     <label class="form-label"><i class="fa fa-money-bill"></i> Amount USD</label>
-                    <input type="text" id="amount-purchase" name="amount-purchase" class="border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 rounded-md shadow-sm mt-1 block w-full">
+                    <input type="number" id="amount-purchase" name="amount-purchase" class="border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 rounded-md shadow-sm mt-1 block w-full">
                   </div>
                   <div class="mb-3">
                     <label class="form-label"><i class="fa fa-calendar"></i> Date</label>
