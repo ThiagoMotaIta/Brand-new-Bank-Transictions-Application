@@ -1,56 +1,66 @@
-# Simplified banking project - Thiago Mota 📜
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Welcome to **Readme of simplified banking project**!
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-## About the Project ☕️
+## About Laravel
 
-- User can Login or Create account;
-- User can access his finalcial balance;
-- User can transfer amount to his account via check deposit;
-- User can purchase an item;
-- User can edit his profile;
-- Admin user can access all pending transactions;
-- Admin user can deny or approve pending transactions;
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-## About the Stacks 📜
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-- For this project, i decided to use Laravel v9.52, and PHP v8.0.11 for **BACK-END**;
-- For **FRONT-END**, Bootstrap v5.3.2, Javascript and Tailwind CSS;
-- For **DATABASE**, MySQL (MariaDB);
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Technical info 📜
-In this project, you will see:
+## Learning Laravel
 
-- Samples of usage of Strategy Pattern;
-- Services classes to handle controllers;
-- Samples of Dependency Injection;
-- Clean Code;
-- DRY;
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-## Extra info ☕️
-- You'll need to install **[LARAVEL BREEZE](https://github.com/laravel/breeze)**, an authentication feature with Tailwind CSS, to login or register an user account.
-- After running migrate command, you'll need to run Seeder command to populate tables with some users (customer and Admin)
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-## Some prints ☕️
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-- Example of API end-points
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/api%20samples.png" width="100%" />
+## Laravel Sponsors
 
-- PHPUnit test running
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/unit%20test.png" width="100%" />
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-- DB Tables
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/db.png" width="100%" />
+### Premium Partners
 
-- Tables Relationship
-<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png" width="100%" />
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
+## Contributing
 
-## Testing 📜
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-- 96,5% test coverage :D
+## Code of Conduct
 
-## Live Demo ❤️
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-You can watch a Live Demo of this application by accessing YouTube link: **[PLAY LIVE DEMO VIDEO](https://www.youtube.com/watch?v=p3GKJ2BJ4dQ)**.
+## Security Vulnerabilities
 
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

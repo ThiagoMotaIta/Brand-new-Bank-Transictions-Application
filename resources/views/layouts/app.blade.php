@@ -25,8 +25,7 @@
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 
-        <!-- Scripts -->
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
+        <link rel="preload" as="style" href="http://localhost/turnover-bnb-bank/public/build/assets/app-d7a52e24.css" /><link rel="modulepreload" href="http://localhost/turnover-bnb-bank/public/build/assets/app-3f7fa7d3.js" /><link rel="stylesheet" href="http://localhost/turnover-bnb-bank/public/build/assets/app-d7a52e24.css" /><script type="module" src="http://localhost/turnover-bnb-bank/public/build/assets/app-3f7fa7d3.js"></script>
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
