@@ -45,6 +45,15 @@ In this project, you will see:
 - Tables Relationship
 <img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/table%20rel.png" width="100%" />
 
+- Current Balance Screen
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/balance.png" width="100%" />
+
+- All Users Transactions (Admin access only)
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/transactions-management.png" width="100%" />
+
+- Check Deposit Form
+<img src="https://github.com/ThiagoMotaIta/Brand-new-Bank-Transictions-Application/blob/main/public/img/deposit-check.png" width="100%" />
+
 
 ## Testing 📜
 
