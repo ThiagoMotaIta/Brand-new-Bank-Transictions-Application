@@ -1,4 +1,4 @@
-# Simplified banking project - Thiago Mota 📜
+# Simplified virtual bank project - Thiago Mota 📜
 
 Welcome to **Readme of simplified banking project**!
 
