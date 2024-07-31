@@ -7,17 +7,21 @@ function hideShowAmount(value){
         $("#my-wallet-value").hide();
         $("#my-wallet-value-hidden").show();
         $("#hide-amount").removeAttr("onclick");
+        $("#hide-amount").removeAttr("onMouseOver");
         $("#hide-amount").attr("onclick", "hideShowAmount('O')");
         $("#hide-amount").removeAttr("class");
         $("#hide-amount").attr("class", "fa fa-eye-slash fa-lg");
+        $("#hide-amount").attr("onMouseOver", "this.style.cursor='pointer'");
         $("#transactions-list").html("");
     } else {
         $("#my-wallet-value-hidden").hide();
         $("#my-wallet-value").show();
         $("#hide-amount").removeAttr("onclick");
+        $("#hide-amount").removeAttr("onMouseOver");
         $("#hide-amount").attr("onclick", "hideShowAmount('H')");
         $("#hide-amount").removeAttr("class");
         $("#hide-amount").attr("class", "fa fa-eye fa-lg");
+        $("#hide-amount").attr("onMouseOver", "this.style.cursor='pointer'");
     }
 }
 
