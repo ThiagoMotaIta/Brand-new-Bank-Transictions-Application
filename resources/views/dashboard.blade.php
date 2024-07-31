@@ -22,7 +22,7 @@
                     Current Balance: 
                     <strong id="my-wallet-value" class="text-success"></strong>
                     <strong id="my-wallet-value-hidden" class="text-success" style="display:none;">-------</strong> 
-                    <i id="see-more" class="fa fa-info-circle fa-lg text-success" onclick="getMyTransactions()"></i>
+                    <i id="see-more" class="fa fa-info-circle fa-lg text-success" onclick="getMyTransactions()" onMouseOver="this.style.cursor='pointer'"></i>
                 </div>
                 <div class="p-6" id="transactions-list"></div>
             </div>
