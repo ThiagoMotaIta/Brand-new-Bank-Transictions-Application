@@ -18,7 +18,7 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
-                    <i id="hide-amount" class="fa fa-eye fa-lg" onclick="hideShowAmount('H')"></i>
+                    <i id="hide-amount" class="fa fa-eye fa-lg" onclick="hideShowAmount('H')" onMouseOver="this.style.cursor='pointer'"></i>
                     Current Balance: 
                     <strong id="my-wallet-value" class="text-success"></strong>
                     <strong id="my-wallet-value-hidden" class="text-success" style="display:none;">-------</strong> 
